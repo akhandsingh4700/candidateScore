@@ -7,8 +7,8 @@ curl --location --request POST 'http://localhost:8080/register' \
 --header 'Content-Type: application/json' \
 --data-raw '{
 
-"name":"",
-"email":"pramod@gmail.com"
+"name":"Akhand",
+"email":"Akhand@gmail.com"
 
 
 }'
